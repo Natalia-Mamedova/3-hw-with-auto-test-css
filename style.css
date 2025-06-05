@@ -6,8 +6,8 @@
 
 .container {
     margin: 0 auto;
-    max-width: 1140px;
-    width: 100%;
+    max-width: 100%;
+    width: 1140px;
 }
 
 body {
